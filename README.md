@@ -4,7 +4,7 @@
 
 Kampala, Uganda · Open to international and remote software engineering opportunities
 
-[LinkedIn](https://www.linkedin.com/in/oula-chrish-6a538323b) · [Company website](https://gabdigitalsystem.com) · [Poultrix Hub](https://poultrixhub.com)
+[Personal portfolio](https://chrish-oula-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/oula-chrish-6a538323b) · [Company website](https://gabdigitalsystem.com) · [Poultrix Hub](https://poultrixhub.com)
 
 ---
 
@@ -20,9 +20,10 @@ I am particularly interested in reliable product engineering, secure data access
 | --- | --- | --- |
 | [Tracemark](https://github.com/Gabions256/tracemark) | Local-first code intelligence, dependency analysis, CLI, desktop tooling, GitHub integration and MCP | Public source code |
 | [Poultrix Hub](https://poultrixhub.com) | Flutter mobile app and web platform for poultry farming, commerce and community | Product website |
+| Sente | Offline-first small-business finance and mobile money workflows | Released on Android and Windows |
 | Enterprise Parts CRM | React and TypeScript prototype for inquiry management, quotation revisions, reminders and reporting | Private prototype |
-| FastworkFlow VPN | Flutter application development, authentication and Android VPN integration | In development; private source |
-| GAB PDF Editor | Document utility development, integration and application testing | Private source |
+| FastworkFlow VPN | Flutter application development, authentication and Android VPN integration | Released on Android; private source |
+| GAB Office / PDF Editor | Document utility development, integration and application testing | Internal testing; private source |
 
 ### Featured open-source project: Tracemark
 
@@ -51,6 +52,6 @@ Tracemark helps developers understand and review codebases through local indexin
 
 I'm interested in full-stack, mobile and software engineering roles, open-source collaboration and opportunities to build dependable products with distributed teams.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/oula-chrish-6a538323b)
+[Explore my engineering portfolio and CV](https://chrish-oula-portfolio.vercel.app) · [Connect on LinkedIn](https://www.linkedin.com/in/oula-chrish-6a538323b)
 
 *Commercial and client source code remains private. Public repositories and product demonstrations are available through the links above.*
